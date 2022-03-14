@@ -2,7 +2,7 @@
 
 This tool is designed to help practicing perfect hovers in Rayman 2 PC.
 
-![screenshot](https://cdn.discordapp.com/attachments/132499708533932032/909532791719469056/unknown.png)
+![screenshot](https://media.discordapp.net/attachments/132499708533932032/952712950882381874/unknown.png)
 
 ## How to Use
 1. Go to the [releases page](
